@@ -1,7 +1,7 @@
 # Proyecto-SED
 Proyecto SED: implementación de un sistema de seguridad con Raspberry pi y Arduino.+
 
-Idea de proyecto
+<h2>Idea de proyecto</h2>
 
 La idea del proyecto consiste en crear un dispositivo IOT de seguridad y vigilancia para los hogares. Mediante el uso de una Raspberry Pi, una microcontroladora Arduino y periféricos como cámara, sensor de movimiento, LEDS de estado de alerta, teclado matricial y un display. Con estos componentes, se busca desarrollar este primer prototipo de una herramienta de seguridad. 
 
